@@ -1,0 +1,5 @@
+{
+  "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxpcXBidnJjcGdpdHZrdnFqdHJ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1MTI1NTIsImV4cCI6MjA4ODA4ODU1Mn0.oOlEUWIseiJRZYSJWURu_cH36CTnpsiVmJ6xGkOPORU",
+  "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxpcXBidnJjcGdpdHZrdnFqdHJ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1MTI1NTIsImV4cCI6MjA4ODA4ODU1Mn0.oOlEUWIseiJRZYSJWURu_cH36CTnpsiVmJ6xGkOPORU",
+  "Content-Type": "application/json"
+}
